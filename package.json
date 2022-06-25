@@ -14,8 +14,6 @@
     "@types/react-dom": "^18.0.5",
     "firebase": "^9.8.4",
     "react": "^18.2.0",
-    "react-autosave": "^0.4.0",
-    "react-contenteditable": "^3.3.6",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
     "rooks": "^5.11.2",
